@@ -1,14 +1,15 @@
 # Swedish translations for com.mitchellh.ghostty package.
 # Copyright (C) 2026 "Mitchell Hashimoto, Ghostty contributors"
 # This file is distributed under the same license as the com.mitchellh.ghostty package.
-# Daniel Nylander <po@danielnylander.se> 2026.
+# Daniel Nylander <po@danielnylander.se>, 2026.
+# Webster Avosa <31823892+avosa@users.noreply.github.com>, 2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: com.mitchellh.ghostty\n"
 "Report-Msgid-Bugs-To: m@mitchellh.com\n"
 "POT-Creation-Date: 2026-10-28 20:24+0200\n"
-"PO-Revision-Date: 2026-10-30 12:00+0100\n"
+"PO-Revision-Date: 2026-11-09 07:26-0800\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
@@ -1101,3 +1102,35 @@ msgstr "Avsluta programmet."
 #: src/input/command.zig:709
 msgid "Put a little Ghostty in your terminal."
 msgstr "Ge din terminal lite Ghostty."
+
+#: src/input/command.zig:607
+msgid "Switch to Configured Appearance"
+msgstr "Byt till konfigurerat utseende"
+
+#: src/input/command.zig:608
+msgid "Use the application appearance from the configuration."
+msgstr "Använd programmets utseende från konfigurationen."
+
+#: src/input/command.zig:612
+msgid "Switch to System Appearance"
+msgstr "Byt till systemets utseende"
+
+#: src/input/command.zig:613
+msgid "Use the system application appearance for this session."
+msgstr "Använd systemets utseende för den här sessionen."
+
+#: src/input/command.zig:617
+msgid "Switch to Light Appearance"
+msgstr "Byt till ljust utseende"
+
+#: src/input/command.zig:618
+msgid "Use a light application appearance for this session."
+msgstr "Använd ett ljust utseende för den här sessionen."
+
+#: src/input/command.zig:622
+msgid "Switch to Dark Appearance"
+msgstr "Byt till mörkt utseende"
+
+#: src/input/command.zig:623
+msgid "Use a dark application appearance for this session."
+msgstr "Använd ett mörkt utseende för den här sessionen."
